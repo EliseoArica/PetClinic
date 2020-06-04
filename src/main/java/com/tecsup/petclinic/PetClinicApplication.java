@@ -16,7 +16,7 @@ public class PetClinicApplication {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		SpringApplication.run(PetClinicApplication.class, args);
+		SpringApplication.run(PetClinicApplication.class, args);//Anotacion 1
 	}
 
 }
